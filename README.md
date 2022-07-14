@@ -1,6 +1,6 @@
 # To-Do App
 
-This is a simple To-Do app implementation using TDD with react testing library just for practice.
+This is a simple To-Do app in React using TDD and react-testing-library just for fun.
 
 # Installation
 Requirements: node.
